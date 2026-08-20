@@ -1,0 +1,7 @@
+# Local archive of earlier versions — not part of the published project
+archive/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
