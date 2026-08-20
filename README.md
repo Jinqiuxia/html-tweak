@@ -6,8 +6,7 @@ Perfect for fixing up AI-generated pages: instead of chatting back and forth wit
 
 **[▶ Try it live](https://jinqiuxia.github.io/html-tweak/)** · Made by [Empowia](https://empowia.com)
 
-<!-- Add a screenshot named screenshot.png next to this file, then uncomment: -->
-<!-- ![HTML Tweak](screenshot.png) -->
+![HTML Tweak — HTML code on the left, live visual editing on the right](screenshot.png)
 
 ## Why
 
