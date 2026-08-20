@@ -1,5 +1,6 @@
-# Local archive of earlier versions — not part of the published project
+# Local-only, not part of the published project
 archive/
+docs/
 
 # OS / editor cruft
 .DS_Store
